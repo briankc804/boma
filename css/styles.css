@@ -1,0 +1,18 @@
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td{
+    background-color: brown;
+    border-color: blue;
+}
+th{
+    text-align:left;
+}
+body{
+    background-color: orange;
+}
+imm{
+    width: 50%;
+    height: 50%;
+}
